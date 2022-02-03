@@ -5,9 +5,6 @@ import com.github.javafaker.Faker;
 import org.junit.jupiter.api.Test;
 import site.kpokogujl.pages.AutomationPracticeFormPage;
 
-import java.io.InputStream;
-import java.io.InputStreamReader;
-
 
 public class HomeWorkFiveTest {
     @Test

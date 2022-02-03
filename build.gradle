@@ -8,7 +8,7 @@ repositories {
 
 def selenideVersion = "6.1.1",
     junitVersion = "5.8.2",
-    slf4jVersion = "1.7.32",
+    slf4jVersion = "1.7.33",
     javafakerversion = "1.0.2"
 
 dependencies {

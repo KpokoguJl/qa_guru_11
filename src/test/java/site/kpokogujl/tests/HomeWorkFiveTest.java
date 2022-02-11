@@ -19,7 +19,7 @@ public class HomeWorkFiveTest {
         String firstName = faker.name().firstName(),
                 lastName = faker.name().lastName(),
                 email = faker.internet().emailAddress(),
-                phone = "9121122233",
+                phone = faker.phoneNumber().subscriberNumber(10),
                 address = faker.address().fullAddress(),
                 gender = "Female",
                 day = "10",
